@@ -1,0 +1,19 @@
+{
+  "name": "1080x1080-dark-terminal-card-tj-lockup-top-left-real-0-9a8-o",
+  "topic": "1080x1080 dark terminal card, TJ lockup top-left; real 0.9a8 output: 'PASSED  test_checkout' (tj run -p) dimmed and struck through, 'FLAKY  test_checkout' (tj run -p --flag-flaky) in brand orange; line 'Passed on run 2. Now you know.'; footer '@_testjunkie · test-junkie.com'. Source images/01-hello.html, output in out/.",
+  "feature": "Hello from Test Junkie: we're on Instagram and Facebook",
+  "purpose": "post",
+  "campaign": null,
+  "platform": "instagram",
+  "post_id": 21,
+  "prompt": "1080x1080 dark terminal card, TJ lockup top-left; real 0.9a8 output: 'PASSED  test_checkout' (tj run -p) dimmed and struck through, 'FLAKY  test_checkout' (tj run -p --flag-flaky) in brand orange; line 'Passed on run 2. Now you know.'; footer '@_testjunkie · test-junkie.com'. Source images/01-hello.html, output in out/.",
+  "tags": [
+    "test-junkie",
+    "instagram",
+    "post"
+  ],
+  "width": 2160,
+  "height": 2160,
+  "sha256": "d9bc4711e3ec96a419eea89261669442ff81bb0b77ac067d6f527eb111d8afc2",
+  "created": "2026-10-11T19:59:05.456Z"
+}
