@@ -1,0 +1,19 @@
+{
+  "name": "same-square-card-as-linkedin-passed-vs-flaky-real-0-9a8-outp",
+  "topic": "Same square card as LinkedIn: PASSED vs FLAKY, real 0.9a8 output.",
+  "feature": "A retry that passes can hide a flaky test",
+  "purpose": "post",
+  "campaign": "Flaky, not failing: retries that tell the truth (0.9a8)",
+  "platform": "instagram",
+  "post_id": 7,
+  "prompt": "Same square card as LinkedIn: PASSED vs FLAKY, real 0.9a8 output.",
+  "tags": [
+    "test-junkie",
+    "instagram",
+    "post"
+  ],
+  "width": 2160,
+  "height": 2160,
+  "sha256": "21281906a4a14505486b572f3d46625ee57df1de891d7501524288694a581ecb",
+  "created": "2026-10-11T23:19:48.607Z"
+}
